@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.khoabit</groupId>
-	<artifactId>jwt-auth</artifactId>
+	<artifactId>jwtauth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jwt-auth</name>
+	<name>jwtauth</name>
 	<description>Template project for JWT auth.</description>
 	<properties>
 		<java.version>17</java.version>
