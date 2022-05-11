@@ -1,0 +1,4 @@
+spring.data.mongodb.uri=mongodb+srv://<username>:<pwd>@<cluster>.mongodb.net/sandBox
+spring.data.mongodb.database=sandBox
+server.error.include-message=always
+jwt.secret="my-secret-key"
